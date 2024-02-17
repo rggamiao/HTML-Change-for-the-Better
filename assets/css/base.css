@@ -70,3 +70,7 @@ footer,
     flex-shrink: 0;
     padding: 20px;
 }
+
+option {
+text-align:center;
+}
